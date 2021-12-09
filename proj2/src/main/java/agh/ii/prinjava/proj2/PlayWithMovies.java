@@ -51,7 +51,7 @@ interface PlayWithMovies {
         return directors.entrySet()
                 .stream()
                 .sorted((d1, d2)-> Long.compare(d2.getValue(), d1.getValue()))
-                .limit(10).collect(Collectors.toMap(m -> m.getKey(), m -> m.getValue()));
+                .limit(10).collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
     }
 
     /**
