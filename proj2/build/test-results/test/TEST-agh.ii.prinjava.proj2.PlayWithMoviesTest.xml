@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.proj2.PlayWithMoviesTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-11-19T08:47:04" hostname="T460" time="0.756">
+  <properties/>
+  <testcase name="testEx01()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.234"/>
+  <testcase name="testEx02()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.036"/>
+  <testcase name="testEx03()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.04"/>
+  <testcase name="testEx04()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.054"/>
+  <testcase name="testEx05()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.085"/>
+  <testcase name="testEx06()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.013"/>
+  <testcase name="testEx07()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.018"/>
+  <testcase name="testEx08()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.059"/>
+  <testcase name="testEx09()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.024"/>
+  <testcase name="testEx10()" classname="agh.ii.prinjava.proj2.PlayWithMoviesTest" time="0.159"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
